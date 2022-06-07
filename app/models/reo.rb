@@ -1,0 +1,2 @@
+class Reo < ApplicationRecord
+end
